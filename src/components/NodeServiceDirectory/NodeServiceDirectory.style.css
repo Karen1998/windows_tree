@@ -1,0 +1,16 @@
+.node-service-dir {
+  padding: 4px 16px;
+  background-color: rgba(0, 0, 0, 0.3);
+  border: 1px solid transparent;
+  border-radius: 20px;
+}
+
+.node-service-dir:hover {
+  cursor: pointer;
+  border-color: #000;
+}
+
+.node-service-dir-inner {
+    margin-left: 16px; /* 12 + 4 */ 
+}
+
